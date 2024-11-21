@@ -1,10 +1,10 @@
 const videos = [
     { id: 1, user: 'dumbo', description: '13 year old flex on stream after hitting his first big rug! #TikTuk #Dance', song: 'Rugging Quant - dumbo', src: '/videos/dance.mp4' },
-    { id: 2, user: 'High', description: 'Dev passes out while trying to pump his coin higher', song: 'Hardfall - meth heads', src: '/videos/cooking.mp4' },
-    { id: 3, user: 'Incest Family', description: 'Son pimping mom out for some sol #TikTuk #boobs', song: 'Got boobs for sol - Incest Fam', src: '/videos/travel.mp4' },
-    { id: 4, user: 'NotMe', description: 'Pumpfun tokens when i sell #Tiktuk #pump', song: 'i wantu kms- me', src: '/videos/rocket.mp4' },
-    { id: 5, user: 'The Dodge Father', description: 'the one who pumped our bags #Tiktuk #pump', song: 'PumpIt- Elon Musk', src: '/videos/elon.mp4' },
-    { id: 6, user: 'The Saviour', description: 'the one who saved our bags #Tiktuk #pumpit', song: 'higher- Donald Trump', src: '/videos/trump.mp4' },
+    { id: 2, user: 'High', description: 'Dev passes out while trying to pump his coin higher', song: 'Hardfall - meth heads', src: '../videos/cooking.mp4' },
+    { id: 3, user: 'Incest Family', description: 'Son pimping mom out for some sol #TikTuk #boobs', song: 'Got boobs for sol - Incest Fam', src: './videos/travel.mp4' },
+    { id: 4, user: 'NotMe', description: 'Pumpfun tokens when i sell #Tiktuk #pump', song: 'i wantu kms- me', src: '../videos/rocket.mp4' },
+    { id: 5, user: 'The Dodge Father', description: 'the one who pumped our bags #Tiktuk #pump', song: 'PumpIt- Elon Musk', src: './videos/elon.mp4' },
+    { id: 6, user: 'The Saviour', description: 'the one who saved our bags #Tiktuk #pumpit', song: 'higher- Donald Trump', src: '../videos/trump.mp4' },
 
 
 
